@@ -17,7 +17,10 @@ article {
 	padding-left: 3px;
 }
 
-
+.main {
+	float:left;
+	width: 800px;
+}
 
 #navigation li {
 	display:inline-block;
@@ -31,4 +34,5 @@ article {
 
 footer {
 	clear: both;
+	padding-top: 10px;
 }
