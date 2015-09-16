@@ -1,0 +1,13 @@
+#wrapper {
+	margin: 0 auto;
+	width: 1080px;
+}
+
+article {
+	width: 1000px;
+	border: 1px grey solid;
+}
+
+#images {
+	float:left;
+}
