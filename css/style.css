@@ -22,6 +22,16 @@ article {
 	width: 800px;
 }
 
+.main2 {
+	float: left;
+	width: 500px;
+}
+
+.main2 img {
+	float: left;
+	padding:1px;
+}
+
 .main img {
 	float:left;
 	padding:1px;
@@ -35,6 +45,12 @@ article {
 #sidebar {
 	float:left;
 	margin-right: 5px;
+}
+
+section {
+	float: right;
+	width: 250px;
+	border: 1px grey solid;
 }
 
 
