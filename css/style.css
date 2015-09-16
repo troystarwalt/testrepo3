@@ -1,13 +1,19 @@
 #wrapper {
 	margin: 0 auto;
 	width: 1080px;
+	font-family: verdana;
 }
 
 article {
 	width: 1000px;
 	border: 1px grey solid;
+	margin:  auto;
 }
 
-#images {
+#images img {
 	float:left;
+	width: 325px;
+	margin:2px;
+	padding-left: 3px;
 }
+
