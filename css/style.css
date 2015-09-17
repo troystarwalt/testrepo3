@@ -19,14 +19,16 @@ article {
 
 .main {
 	float:left;
-	width: 800px;
+	width: 900px;
+	margin-left: 20px;
 }
 
 .main2 {
 	float: left;
-	width: 570px;
+	width: 600px;
 	padding-left:5px;
 	padding-right:5px;
+	margin-left: 20px;
 }
 
 .main2 img {
@@ -37,6 +39,7 @@ article {
 .main img {
 	float:left;
 	padding:1px;
+	margin-top: 15px;
 }
 
 nav {
@@ -48,8 +51,8 @@ nav {
 	padding-left: 5px;
 }
 
-ul {
-	list-style-type: none;
+a{
+	display: block;
 }
 
 #sidebar {
@@ -66,6 +69,7 @@ section {
 h3 {
 	text-align: center;
 }
+
 footer {
 	clear: both;
 	padding-top: 10px;
