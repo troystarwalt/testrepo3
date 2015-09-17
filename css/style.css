@@ -7,6 +7,7 @@
 article {
 	width: 1000px;
 	border: 1px grey solid;
+	border-radius: 15px;
 	margin:  auto;
 }
 
@@ -63,7 +64,6 @@ a{
 section {
 	float: right;
 	width: 350px;
-	border: 1px grey solid;
 }
 
 h3 {
